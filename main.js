@@ -13,7 +13,7 @@
 
   let myAge = [45]; 
 
-  let myHeight = 74; //6 feet * 2 inches/foot + 2inches; 
+  let myHeight = '6 feet 2 inches' 
   
   let myFavoriteYear = summer; 
 
