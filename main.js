@@ -1,13 +1,29 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = "Adrian"
-let myLastName = "Pearson"
-let myFavoriteCeleb = "Richard Pryor"
-let mySentence = "Why not me?"
-let myLuckyNum = "2"
-let myAge = "45"
-let myHeight = "6'2"
+  letmyFirstName = "Adrian";
+  
+  letmyLastName = "Pearson";
+  
+  letmyFavoriteCeleb = "Richard Pryor";
+  
+  letmySentence = "Why Not Me?";
+
+  letmyLuckyNum = 2;
+
+  letmyAge = 45; 
+
+  letmyHeight = "6'2; 
+  
+  letmyFavoriteYear = undefined; 
+
+  letmySum = undefined; 
+
+  letmyProduct = undefined; 
+
+  letmyHeightAndAge = $45 and $6-2
+
+
 
 
 /*********************************************************************************************************************
