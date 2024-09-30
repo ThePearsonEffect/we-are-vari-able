@@ -1,27 +1,27 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-  letmyFirstName = "Adrian";
+  let myFirstName = "Adrian";
   
-  letmyLastName = "Pearson";
+  let myLastName = "Pearson";
   
-  letmyFavoriteCeleb = "Richard Pryor";
+  let myFavoriteCeleb = "Richard Pryor";
   
-  letmySentence = "Why Not Me?";
+  let mySentence = "Why Not Me?";
 
-  letmyLuckyNum = 2;
+  let myLuckyNum = 2;
 
-  letmyAge = 45; 
+  let myAge = [45]; 
 
-  letmyHeight = "6'2; 
+  let myHeight = 74; //6 feet * 2 inches/foot + 2inches; 
   
-  letmyFavoriteYear = undefined; 
+  let myFavoriteYear = summer; 
 
-  letmySum = undefined; 
+  let mySum = undefined; 
 
-  letmyProduct = undefined; 
+  let myProduct = null; 
 
-  letmyHeightAndAge = $45 and $6-2
+  let myHeightAndAge = [45,"6-2"];
 
 
 
